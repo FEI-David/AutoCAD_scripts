@@ -1,0 +1,519 @@
+SDI 0
+(setvar "FILEDIA" 0)
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\00-NOTES - THERMAL BLOCKS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\0PLOT-PAGESETUPS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\18 SET RISER.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\1WAY.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\2-BANK.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\24r.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\24R1.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\24s.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\2FT CLG LIN.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\2T HIGH STATIC SMALL CHASIS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\3.5 LARGE CHASIS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\4FT CLG LIN.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\7.5-12.5t RTU (DAIKIN).dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\A$C112C06D9.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\A$C59686296.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\A$C6C535AC4.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\A$C8c9c4e3f.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\A$Cb9510695.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\AAON 26-70 TON.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\ADDISON 45T.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\AHU-CLG.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\AHU-MS-1.0.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\AHU-MS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\anno_RISERNUMBER.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\APT OA.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 10T AHU.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 10TON.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 12.5 TON.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 15TON.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 2.0-2.5-3.0-3.5-4.0 AND 5.0 TONS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CARRIER 3TON.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CIRCUIT BALANCE VALVE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CLG CASSETTE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CO SENSOR.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\COND UNIT.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CONT.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\CU-MS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\DELTA.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\di_00-BLOCKS - Copy.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\di_00-BLOCKS - Copy_recover.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\di_00-BLOCKS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\di_00-BLOCKS_recover.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\DPS015A (15T DAIKIN).dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\DSD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-LGND.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-REC-2-G.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-REC-2.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-REC-2USB.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-SL.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E-TVDATA.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EF-5.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EP018.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EP024.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EP036.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EP048.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EXH TAG.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EXH-1.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\EXHAUST.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\E_S.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\FD-HORIZONTAL.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\FD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\FL.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\FSD-HORIZONTAL.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\FSD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\INTAKE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\LINEAR-SC.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\LV HP (UP TO 30 MBH).dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\LV HP (UP TO 42 MBH).dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\LV HP (UP TO 70 MBH).dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-2SWR.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ERU.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ERV-HORZ.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ERV-SIDE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ERV-VERT.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ERV.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-EXH.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-FSD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-MSCU.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-OADIF.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-REF_SINGLE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-ROOF_EXH.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-R_C2C.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-R_S2C.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-S2S.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-SWS.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-TAG.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M-TRID.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\MC FCU.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\MD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\MS-1BANK.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\M_DPMP.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\N-BANK.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\N-BANK_PAD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\NOx Sensor.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\OAF.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\PACKAGE WATER COOLED.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\PCU-1.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\PRESSURE GAGE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\Pressure Sensor.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\RD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\REF RISER NO.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\RHLL-5.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\riser number.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\RISERNUMBER.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\RTU-2.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\SD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\SINGLE-LARGE.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\SUPPLY.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\swd.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\swd2.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\T-STAT.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\Tag_TitleBlock.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\UNION.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\VD.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\VERT FCU.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\W-CAM-PTZ.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\W-CAM.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\WMF0.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\WMF1.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\xfei-LEVEL 1$0$M-EQUIP.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\XTI-33x48x89.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\XTI-33x51x79.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\XVENT OA.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\XVENT-EXH.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\YOUNG KEY.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\YOUNG REGULATOR.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\_ClosedBlank.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\_DetailCallout.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+_.open "C:\Users\david\OneDrive - franyie\Documents\AutoCAD Sheet Sets\__DetCallout.dwg"
+(load "P:/dvxxxx2.lsp")
+_.qsave
+_.close
+(setvar "FILEDIA" 1)
